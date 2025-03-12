@@ -1,3 +1,4 @@
+```python
 from pyrogram import Client, filters
 from pyrogram.enums import MessageMediaType
 from pyrogram.errors import FloodWait
@@ -194,3 +195,4 @@ async def doc(bot, update):
 # Don't Remove Credit 🥺
 # Telegram Channel @JishuBotz
 # Developer @JishuDeveloper
+```
